@@ -32,5 +32,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "bootstrap": "^5.0.0-beta3",
+    "bootstrap-loader": "^3.0.4",
+    "jquery": "^3.6.0",
+    "tether": "^2.0.0"
   }
 }
